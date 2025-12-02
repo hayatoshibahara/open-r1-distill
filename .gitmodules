@@ -1,0 +1,6 @@
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = git@github.com:hayatoshibahara/.devcontainer
+[submodule "open-r1"]
+	path = open-r1
+	url = git@github.com:huggingface/open-r1.git
